@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+.header {
+  text-align: center;
+}
+header a{
+  background-color: rgba(114, 134, 148, 0.301);
+}
+#featured-property {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#details {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  background-color:  red;
+}
+#featured-property p{
+  margin-left: 500px;
+  margin-right: 500px;
+}
